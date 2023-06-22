@@ -1,3 +1,6 @@
 [submodule "basic-android-kotlin-compose-training-tip-calculator"]
 	path = basic-android-kotlin-compose-training-tip-calculator
 	url = https://github.com/nicolasSagon/basic-android-kotlin-compose-training-tip-calculator.git
+[submodule "basic-android-kotlin-compose-training-affirmations"]
+	path = basic-android-kotlin-compose-training-affirmations
+	url = git@github.com:nicolasSagon/basic-android-kotlin-compose-training-affirmations.git
